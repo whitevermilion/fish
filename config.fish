@@ -89,6 +89,8 @@ alias ip 'ip -color'
 alias wget 'wget -c '
 alias whph='/opt/whph/whph'
 alias lg 'lazygit'
+alias htop 'btop'
+alias neofetch 'fastfetch'
 
 # Package management
 alias mirror 'sudo reflector -f 30 -l 30 --number 10 --verbose --save /etc/pacman.d/mirrorlist'
